@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\NTDers5\BuiltinMethods\bin\Debug\BuiltinMethods.exe.config
+c:\users\section2\source\repos\NTDers5\BuiltinMethods\bin\Debug\BuiltinMethods.exe
+c:\users\section2\source\repos\NTDers5\BuiltinMethods\bin\Debug\BuiltinMethods.pdb
+c:\users\section2\source\repos\NTDers5\BuiltinMethods\obj\Debug\BuiltinMethods.csprojResolveAssemblyReference.cache
+c:\users\section2\source\repos\NTDers5\BuiltinMethods\obj\Debug\BuiltinMethods.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers5\BuiltinMethods\obj\Debug\BuiltinMethods.exe
+c:\users\section2\source\repos\NTDers5\BuiltinMethods\obj\Debug\BuiltinMethods.pdb

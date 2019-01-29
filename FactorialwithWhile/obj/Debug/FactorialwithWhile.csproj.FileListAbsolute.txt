@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\NTDers5\FactorialwithWhile\bin\Debug\FactorialwithWhile.exe.config
+c:\users\section2\source\repos\NTDers5\FactorialwithWhile\bin\Debug\FactorialwithWhile.exe
+c:\users\section2\source\repos\NTDers5\FactorialwithWhile\bin\Debug\FactorialwithWhile.pdb
+c:\users\section2\source\repos\NTDers5\FactorialwithWhile\obj\Debug\FactorialwithWhile.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers5\FactorialwithWhile\obj\Debug\FactorialwithWhile.exe
+c:\users\section2\source\repos\NTDers5\FactorialwithWhile\obj\Debug\FactorialwithWhile.pdb
+c:\users\section2\source\repos\NTDers5\FactorialwithWhile\obj\Debug\FactorialwithWhile.csprojResolveAssemblyReference.cache

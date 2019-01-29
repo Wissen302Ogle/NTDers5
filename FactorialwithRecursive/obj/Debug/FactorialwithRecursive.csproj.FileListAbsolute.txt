@@ -1,0 +1,6 @@
+c:\users\section2\source\repos\NTDers5\FactorialwithRecursive\bin\Debug\FactorialwithRecursive.exe.config
+c:\users\section2\source\repos\NTDers5\FactorialwithRecursive\bin\Debug\FactorialwithRecursive.exe
+c:\users\section2\source\repos\NTDers5\FactorialwithRecursive\bin\Debug\FactorialwithRecursive.pdb
+c:\users\section2\source\repos\NTDers5\FactorialwithRecursive\obj\Debug\FactorialwithRecursive.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers5\FactorialwithRecursive\obj\Debug\FactorialwithRecursive.exe
+c:\users\section2\source\repos\NTDers5\FactorialwithRecursive\obj\Debug\FactorialwithRecursive.pdb
